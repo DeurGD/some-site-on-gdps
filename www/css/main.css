@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200;300;400&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    animation: grad 3s infinite;
+}
+
+
+#logo {
+    position: relative;
+    height: 40px;
+    width: 40px;
+    margin: 4px;
+    padding: 6px;
+}
+
+.sap {
+    position: relative;
+    height: 60px;
+    width: 1420px;
+    background-color: rgb(249, 241, 255);
+    border-bottom: solid 2px rgb(206, 179, 255);
+}
+
+.knop {
+    margin: 15px;
+    appearance: none;
+    height: 35px;
+    width: 120px;
+    position: relative;
+    left: 470px;
+    bottom: 25px;
+    border-radius: 8px;
+    border: solid 2px rgb(208, 170, 255);
+    background-color: rgb(244, 228, 255);
+}
+
+.knop:hover {
+    border: solid 2px rgb(218, 187, 255);
+    background-color: rgb(250, 242, 255);
+}
+
+.knop:active {
+    border: solid 2px rgb(197, 150, 255);
+    background-color: rgb(237, 207, 254);
+}
+
+#bdps {
+    position: relative;
+    left: -770px;
+    bottom: 20px;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 25px;
+    background-color: rgb(249, 241, 255);
+    appearance: none;
+    border: solid 1px rgb(249, 241, 255);
+}
+
+/* Почему бдпс и схуяли... */
+
+#poh {
+    position: relative;
+    bottom: -20px;
+    left: 300px;
+    width: 690px;
+    height: 60px;
+    background-color: rgb(255, 241, 253);
+    border: solid 3px rgb(255, 179, 247);
+    border-radius: 9px;
+}
+
+#sh {
+    margin-top: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 25px;
+}
+
+/* ПОчти нету правил */
+
+#easyP {
+    position: relative;
+    bottom: -50px;
+    left: 20px;
+
+    width: 445px;
+    height: 305px;
+    background-color: rgb(255, 241, 248);
+    border: solid 3px rgb(255, 179, 203);
+    border-radius: 9px;
+}
+
+#Ynas {
+    margin-top: 85px;
+    margin-left: 10px;
+    text-align: left;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 19px;
+}
+
+#img {
+    position: relative;
+    bottom: 205px;
+    left: 200px;
+    border: solid 3px rgb(255, 179, 203);
+    width: 225px;
+    height: 265px;
+    background-image: url(Screenshot_20230903_184012.jpg);
+    background-size: cover;
+    border-radius: 9px;
+}
+
+/* правила рейта */
+
+#easyPR {
+    position: relative;
+    bottom: 260px;
+    left: 730px;
+
+    width: 545px;
+    height: 305px;
+    background-color: rgb(248, 241, 255);
+    border: solid 3px rgb(226, 179, 255);
+    border-radius: 9px;
+}
+
+#easyPRN {
+    margin-top: 80px;
+    margin-left: 10px;
+    text-align: left;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 19px;
+}
+
+#imgPR {
+    position: relative;
+    bottom: 205px;
+    left: 200px;
+    border: solid 3px rgb(226, 179, 255);
+    width: 325px;
+    height: 265px;
+    background-image: url(2023-09-03_21-39-53.png);
+    background-size: cover;
+    border-radius: 9px;
+}
+
+/* нету доната */
+
+#netD {
+    position: relative;
+    bottom: 260px;
+    left: 730px;
+
+    width: 545px;
+    height: 305px;
+    background-color: rgb(248, 241, 255);
+    border: solid 3px rgb(226, 179, 255);
+    border-radius: 9px;
+}
+
+#netDT {
+    margin-top: 80px;
+    margin-left: 10px;
+    text-align: left;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 19px;
+}

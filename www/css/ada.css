@@ -1,0 +1,93 @@
+
+
+@media only screen and (max-width: 1300px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 565px;
+        bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 1250px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 515px;
+        bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 465px;
+        bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 1150px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 415px;
+        bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 365px;
+        bottom: 25px;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 315px;
+        bottom: 25px;
+    }
+
+}
+
+@media only screen and (max-width: 1000px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 265px;
+        bottom: 25px;
+    }
+
+    #bdps {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .knop {
+        margin: 15px;
+        position: relative;
+        left: 215px;
+        bottom: 25px;
+    }
+
+    #bdps {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .knop {
+        visibility: hidden;
+    }
+
+    #bdps {
+        font-size: 25px;
+    }
+}  
+
